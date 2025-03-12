@@ -1,0 +1,880 @@
+2025-03-11 00:10:05,027 - ERROR - [youtube_manager.py:68] - Google services setup failed: Credentials validation failed: Credentials file 'd:\Python Projects\YouTube01\data\credentials.json' not found!
+2025-03-11 00:10:41,853 - ERROR - [youtube_manager.py:68] - Google services setup failed: Credentials validation failed: Credentials file 'd:\Python Projects\YouTube01\data\credentials.json' not found!
+2025-03-11 00:11:56,398 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 00:12:16,155 - ERROR - [youtube_manager.py:104] - Spreadsheet 'YouTube Video Data' not found
+2025-03-11 00:12:16,157 - ERROR - [youtube_manager.py:292] - Error processing video: Spreadsheet 'YouTube Video Data' not found
+2025-03-11 00:15:36,890 - ERROR - [youtube_manager.py:104] - Spreadsheet 'YouTube Video Data' not found
+2025-03-11 00:15:36,893 - ERROR - [youtube_manager.py:292] - Error processing video: Spreadsheet 'YouTube Video Data' not found
+2025-03-11 00:29:17,235 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 00:29:33,850 - ERROR - [youtube_manager.py:117] - Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:29:33,852 - ERROR - [youtube_manager.py:305] - Error processing video: Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:31:25,449 - ERROR - [youtube_manager.py:117] - Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:31:25,451 - ERROR - [youtube_manager.py:305] - Error processing video: Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:40:19,308 - ERROR - [youtube_manager.py:117] - Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:40:19,309 - ERROR - [youtube_manager.py:305] - Error processing video: Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:42:59,535 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 00:43:15,606 - ERROR - [youtube_manager.py:117] - Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:43:15,609 - ERROR - [youtube_manager.py:305] - Error processing video: Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:45:00,952 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 00:45:02,315 - ERROR - [youtube_manager.py:86] - Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:45:02,315 - ERROR - [youtube_manager.py:90] - Google services setup failed: Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 00:54:58,179 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 00:54:59,433 - ERROR - [youtube_manager.py:86] - Spreadsheet 'YouTubeVidoeInfo' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTubeVidoeInfo'
+2025-03-11 00:54:59,435 - ERROR - [youtube_manager.py:90] - Google services setup failed: Spreadsheet 'YouTubeVidoeInfo' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTubeVidoeInfo'
+2025-03-11 00:56:35,909 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 00:56:37,159 - ERROR - [youtube_manager.py:86] - Spreadsheet 'YouTubeVidoeInfo' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTubeVidoeInfo'
+2025-03-11 00:56:37,162 - ERROR - [youtube_manager.py:90] - Google services setup failed: Spreadsheet 'YouTubeVidoeInfo' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTubeVidoeInfo'
+2025-03-11 01:04:08,207 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 01:04:09,667 - ERROR - [youtube_manager.py:86] - Spreadsheet 'Vidoes' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'Vidoes'
+2025-03-11 01:04:09,669 - ERROR - [youtube_manager.py:90] - Google services setup failed: Spreadsheet 'Vidoes' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'Vidoes'
+2025-03-11 01:11:50,512 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 01:11:51,666 - ERROR - [youtube_manager.py:86] - Spreadsheet 'Vidoes' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'Vidoes'
+2025-03-11 01:11:51,667 - ERROR - [youtube_manager.py:90] - Google services setup failed: Spreadsheet 'Vidoes' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'Vidoes'
+2025-03-11 01:14:48,720 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 01:14:49,983 - ERROR - [youtube_manager.py:86] - Spreadsheet 'Vidoes' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'Vidoes'
+2025-03-11 01:14:49,984 - ERROR - [youtube_manager.py:90] - Google services setup failed: Spreadsheet 'Vidoes' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'Vidoes'
+2025-03-11 01:15:18,981 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 01:15:20,112 - ERROR - [youtube_manager.py:86] - Spreadsheet 'Videos' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'Videos'
+2025-03-11 01:15:20,113 - ERROR - [youtube_manager.py:90] - Google services setup failed: Spreadsheet 'Videos' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'Videos'
+2025-03-11 01:18:27,132 - ERROR - [youtube_manager.py:90] - Google services setup failed: Credentials validation failed: 'str' object has no attribute 'exists'
+2025-03-11 01:20:06,106 - ERROR - [youtube_manager.py:90] - Google services setup failed: Credentials validation failed: 'str' object has no attribute 'exists'
+2025-03-11 01:21:17,153 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 01:21:18,621 - ERROR - [youtube_manager.py:86] - Spreadsheet 'YouTubeVideoInfo' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTubeVideoInfo'
+2025-03-11 01:21:18,623 - ERROR - [youtube_manager.py:90] - Google services setup failed: Spreadsheet 'YouTubeVideoInfo' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTubeVideoInfo'
+2025-03-11 21:35:19,286 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 21:36:15,479 - ERROR - [youtube_manager.py:117] - Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 21:36:15,480 - ERROR - [youtube_manager.py:305] - Error processing video: Spreadsheet 'YouTube Video Data' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTube Video Data'
+2025-03-11 21:38:52,815 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 21:39:06,314 - ERROR - [youtube_manager.py:117] - Spreadsheet 'YouTubeVideoInfo' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTubeVideoInfo'
+2025-03-11 21:39:06,316 - ERROR - [youtube_manager.py:305] - Error processing video: Spreadsheet 'YouTubeVideoInfo' not found. Please make sure:
+1. The spreadsheet exists
+2. The spreadsheet is shared with this service account: experimental@experimental-452816.iam.gserviceaccount.com
+3. The spreadsheet name matches exactly: 'YouTubeVideoInfo'
+2025-03-11 21:43:52,340 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 21:44:12,503 - INFO - [youtube_manager.py:103] - Spreadsheet found with ID: 1Zi0Pjsdnd6rOCRuFA-pwKrXlzuGKCaLFebD51fnKDqU
+2025-03-11 21:44:14,517 - WARNING - [youtube_manager.py:132] - Headers mismatch. Updating headers
+2025-03-11 21:44:16,475 - INFO - [youtube_manager.py:280] - Fetching data for video: https://www.youtube.com/watch?v=WFpq6oFeOTk
+2025-03-11 21:44:20,924 - INFO - [youtube_manager.py:170] - Successfully extracted data for video: Lady Gaga, Bruno Mars - Die With A Smile | Shania Yan Cover
+2025-03-11 21:44:20,926 - INFO - [youtube_manager.py:287] - Downloading video...
+2025-03-11 21:44:36,922 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:36,924 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  1.5%[0m
+2025-03-11 21:44:37,303 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 14.8%[0m
+2025-03-11 21:44:37,314 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 13.2%[0m
+2025-03-11 21:44:37,316 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.6%[0m
+2025-03-11 21:44:37,317 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.4%[0m
+2025-03-11 21:44:37,354 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.2%[0m
+2025-03-11 21:44:37,389 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.2%[0m
+2025-03-11 21:44:37,454 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.2%[0m
+2025-03-11 21:44:37,518 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.1%[0m
+2025-03-11 21:44:37,597 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.1%[0m
+2025-03-11 21:44:37,670 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.1%[0m
+2025-03-11 21:44:37,736 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  8.1%[0m
+2025-03-11 21:44:37,740 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  3.0%[0m
+2025-03-11 21:44:38,198 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.1%[0m
+2025-03-11 21:44:38,209 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.1%[0m
+2025-03-11 21:44:38,210 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.1%[0m
+2025-03-11 21:44:38,212 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.1%[0m
+2025-03-11 21:44:38,213 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.2%[0m
+2025-03-11 21:44:38,215 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.3%[0m
+2025-03-11 21:44:38,221 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.5%[0m
+2025-03-11 21:44:38,231 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.9%[0m
+2025-03-11 21:44:38,239 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 10.5%[0m
+2025-03-11 21:44:38,287 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 11.6%[0m
+2025-03-11 21:44:38,326 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 11.1%[0m
+2025-03-11 21:44:38,328 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  5.9%[0m
+2025-03-11 21:44:38,743 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.1%[0m
+2025-03-11 21:44:38,748 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.1%[0m
+2025-03-11 21:44:38,751 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.1%[0m
+2025-03-11 21:44:38,753 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.2%[0m
+2025-03-11 21:44:38,755 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.2%[0m
+2025-03-11 21:44:38,759 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.3%[0m
+2025-03-11 21:44:38,765 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.4%[0m
+2025-03-11 21:44:38,771 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.6%[0m
+2025-03-11 21:44:38,780 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 13.1%[0m
+2025-03-11 21:44:38,797 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 13.9%[0m
+2025-03-11 21:44:38,905 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 14.4%[0m
+2025-03-11 21:44:38,909 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  8.8%[0m
+2025-03-11 21:44:39,371 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.2%[0m
+2025-03-11 21:44:39,376 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.2%[0m
+2025-03-11 21:44:39,377 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.2%[0m
+2025-03-11 21:44:39,378 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.2%[0m
+2025-03-11 21:44:39,379 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.2%[0m
+2025-03-11 21:44:39,394 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.3%[0m
+2025-03-11 21:44:39,396 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.4%[0m
+2025-03-11 21:44:39,405 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.6%[0m
+2025-03-11 21:44:39,412 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.9%[0m
+2025-03-11 21:44:39,445 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 16.7%[0m
+2025-03-11 21:44:39,447 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.2%[0m
+2025-03-11 21:44:39,450 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 12.8%[0m
+2025-03-11 21:44:39,867 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.2%[0m
+2025-03-11 21:44:39,884 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.2%[0m
+2025-03-11 21:44:39,885 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.2%[0m
+2025-03-11 21:44:39,887 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.2%[0m
+2025-03-11 21:44:39,889 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.2%[0m
+2025-03-11 21:44:39,895 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.3%[0m
+2025-03-11 21:44:39,906 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.4%[0m
+2025-03-11 21:44:39,912 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.6%[0m
+2025-03-11 21:44:39,927 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 19.0%[0m
+2025-03-11 21:44:39,951 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 19.7%[0m
+2025-03-11 21:44:39,953 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 18.5%[0m
+2025-03-11 21:44:39,955 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 15.6%[0m
+2025-03-11 21:44:40,312 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.2%[0m
+2025-03-11 21:44:40,315 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.2%[0m
+2025-03-11 21:44:40,316 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.2%[0m
+2025-03-11 21:44:40,317 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.2%[0m
+2025-03-11 21:44:40,318 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.3%[0m
+2025-03-11 21:44:40,320 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.3%[0m
+2025-03-11 21:44:40,328 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.4%[0m
+2025-03-11 21:44:40,334 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.6%[0m
+2025-03-11 21:44:40,347 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 22.0%[0m
+2025-03-11 21:44:40,372 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 22.7%[0m
+2025-03-11 21:44:40,447 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.0%[0m
+2025-03-11 21:44:40,454 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 21.7%[0m
+2025-03-11 21:44:40,457 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 17.0%[0m
+2025-03-11 21:44:40,885 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.2%[0m
+2025-03-11 21:44:40,895 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.2%[0m
+2025-03-11 21:44:40,900 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.3%[0m
+2025-03-11 21:44:40,903 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.3%[0m
+2025-03-11 21:44:40,905 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.3%[0m
+2025-03-11 21:44:40,912 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.3%[0m
+2025-03-11 21:44:40,926 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.4%[0m
+2025-03-11 21:44:40,934 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.6%[0m
+2025-03-11 21:44:40,949 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.9%[0m
+2025-03-11 21:44:40,974 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 25.5%[0m
+2025-03-11 21:44:41,021 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 26.7%[0m
+2025-03-11 21:44:41,027 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.7%[0m
+2025-03-11 21:44:41,029 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 20.2%[0m
+2025-03-11 21:44:41,363 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.3%[0m
+2025-03-11 21:44:41,377 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.3%[0m
+2025-03-11 21:44:41,379 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.3%[0m
+2025-03-11 21:44:41,381 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.3%[0m
+2025-03-11 21:44:41,383 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.3%[0m
+2025-03-11 21:44:41,386 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.3%[0m
+2025-03-11 21:44:41,397 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.4%[0m
+2025-03-11 21:44:41,406 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.6%[0m
+2025-03-11 21:44:41,414 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.9%[0m
+2025-03-11 21:44:41,435 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 28.4%[0m
+2025-03-11 21:44:41,437 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.4%[0m
+2025-03-11 21:44:41,440 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 25.1%[0m
+2025-03-11 21:44:41,810 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.3%[0m
+2025-03-11 21:44:41,813 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.3%[0m
+2025-03-11 21:44:41,815 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.3%[0m
+2025-03-11 21:44:41,818 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.3%[0m
+2025-03-11 21:44:41,820 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.3%[0m
+2025-03-11 21:44:41,825 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.4%[0m
+2025-03-11 21:44:41,827 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.5%[0m
+2025-03-11 21:44:41,832 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.6%[0m
+2025-03-11 21:44:41,840 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.9%[0m
+2025-03-11 21:44:41,869 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 31.5%[0m
+2025-03-11 21:44:41,999 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 32.6%[0m
+2025-03-11 21:44:42,112 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 31.5%[0m
+2025-03-11 21:44:42,116 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 25.8%[0m
+2025-03-11 21:44:42,612 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.3%[0m
+2025-03-11 21:44:42,623 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.3%[0m
+2025-03-11 21:44:42,624 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.3%[0m
+2025-03-11 21:44:42,626 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.4%[0m
+2025-03-11 21:44:42,631 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.4%[0m
+2025-03-11 21:44:42,642 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.4%[0m
+2025-03-11 21:44:42,646 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.5%[0m
+2025-03-11 21:44:42,659 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.6%[0m
+2025-03-11 21:44:42,682 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.9%[0m
+2025-03-11 21:44:42,701 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 34.4%[0m
+2025-03-11 21:44:42,758 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 35.5%[0m
+2025-03-11 21:44:42,787 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 34.7%[0m
+2025-03-11 21:44:42,790 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 28.9%[0m
+2025-03-11 21:44:43,203 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.4%[0m
+2025-03-11 21:44:43,224 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.4%[0m
+2025-03-11 21:44:43,226 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.4%[0m
+2025-03-11 21:44:43,228 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.4%[0m
+2025-03-11 21:44:43,230 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.4%[0m
+2025-03-11 21:44:43,231 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.4%[0m
+2025-03-11 21:44:43,234 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.5%[0m
+2025-03-11 21:44:43,253 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.6%[0m
+2025-03-11 21:44:43,260 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.9%[0m
+2025-03-11 21:44:43,276 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 37.4%[0m
+2025-03-11 21:44:43,287 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 36.9%[0m
+2025-03-11 21:44:43,289 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 34.0%[0m
+2025-03-11 21:44:43,746 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.4%[0m
+2025-03-11 21:44:43,773 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.4%[0m
+2025-03-11 21:44:43,774 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.4%[0m
+2025-03-11 21:44:43,775 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.4%[0m
+2025-03-11 21:44:43,776 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.4%[0m
+2025-03-11 21:44:43,777 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.5%[0m
+2025-03-11 21:44:43,778 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.5%[0m
+2025-03-11 21:44:43,820 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.7%[0m
+2025-03-11 21:44:43,829 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.9%[0m
+2025-03-11 21:44:43,853 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 40.4%[0m
+2025-03-11 21:44:43,891 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 41.4%[0m
+2025-03-11 21:44:43,905 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.8%[0m
+2025-03-11 21:44:43,908 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 35.6%[0m
+2025-03-11 21:44:44,379 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.4%[0m
+2025-03-11 21:44:44,395 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.4%[0m
+2025-03-11 21:44:44,397 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.4%[0m
+2025-03-11 21:44:44,400 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.4%[0m
+2025-03-11 21:44:44,402 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.5%[0m
+2025-03-11 21:44:44,403 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.5%[0m
+2025-03-11 21:44:44,408 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.6%[0m
+2025-03-11 21:44:44,412 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.7%[0m
+2025-03-11 21:44:44,420 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.9%[0m
+2025-03-11 21:44:44,435 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 43.4%[0m
+2025-03-11 21:44:44,486 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 44.2%[0m
+2025-03-11 21:44:44,488 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.1%[0m
+2025-03-11 21:44:44,869 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.5%[0m
+2025-03-11 21:44:44,889 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.5%[0m
+2025-03-11 21:44:44,892 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.5%[0m
+2025-03-11 21:44:44,894 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.5%[0m
+2025-03-11 21:44:44,903 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.5%[0m
+2025-03-11 21:44:44,907 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.5%[0m
+2025-03-11 21:44:44,925 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.6%[0m
+2025-03-11 21:44:44,955 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.7%[0m
+2025-03-11 21:44:44,963 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.9%[0m
+2025-03-11 21:44:44,982 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.4%[0m
+2025-03-11 21:44:45,040 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 47.1%[0m
+2025-03-11 21:44:45,043 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 42.3%[0m
+2025-03-11 21:44:45,490 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.5%[0m
+2025-03-11 21:44:45,505 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.5%[0m
+2025-03-11 21:44:45,507 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.5%[0m
+2025-03-11 21:44:45,509 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.5%[0m
+2025-03-11 21:44:45,510 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.5%[0m
+2025-03-11 21:44:45,511 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.5%[0m
+2025-03-11 21:44:45,522 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.6%[0m
+2025-03-11 21:44:45,533 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.7%[0m
+2025-03-11 21:44:45,542 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 49.0%[0m
+2025-03-11 21:44:45,566 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 49.4%[0m
+2025-03-11 21:44:45,609 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 50.4%[0m
+2025-03-11 21:44:45,637 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 49.3%[0m
+2025-03-11 21:44:45,638 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 44.5%[0m
+2025-03-11 21:44:46,051 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.5%[0m
+2025-03-11 21:44:46,065 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.5%[0m
+2025-03-11 21:44:46,067 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.5%[0m
+2025-03-11 21:44:46,070 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.5%[0m
+2025-03-11 21:44:46,072 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.5%[0m
+2025-03-11 21:44:46,074 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.6%[0m
+2025-03-11 21:44:46,078 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.6%[0m
+2025-03-11 21:44:46,091 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.8%[0m
+2025-03-11 21:44:46,098 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 52.0%[0m
+2025-03-11 21:44:46,117 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 52.4%[0m
+2025-03-11 21:44:46,192 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 53.3%[0m
+2025-03-11 21:44:46,198 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.9%[0m
+2025-03-11 21:44:46,200 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 47.9%[0m
+2025-03-11 21:44:46,647 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.5%[0m
+2025-03-11 21:44:46,661 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.5%[0m
+2025-03-11 21:44:46,663 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.6%[0m
+2025-03-11 21:44:46,665 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.6%[0m
+2025-03-11 21:44:46,667 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.6%[0m
+2025-03-11 21:44:46,669 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.6%[0m
+2025-03-11 21:44:46,673 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.7%[0m
+2025-03-11 21:44:46,681 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.8%[0m
+2025-03-11 21:44:46,692 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 55.0%[0m
+2025-03-11 21:44:46,714 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 55.5%[0m
+2025-03-11 21:44:46,736 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 55.8%[0m
+2025-03-11 21:44:46,738 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 51.7%[0m
+2025-03-11 21:44:47,229 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.6%[0m
+2025-03-11 21:44:47,239 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.6%[0m
+2025-03-11 21:44:47,242 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.6%[0m
+2025-03-11 21:44:47,244 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.6%[0m
+2025-03-11 21:44:47,247 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.6%[0m
+2025-03-11 21:44:47,250 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.6%[0m
+2025-03-11 21:44:47,252 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.7%[0m
+2025-03-11 21:44:47,255 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.8%[0m
+2025-03-11 21:44:47,266 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 58.0%[0m
+2025-03-11 21:44:47,283 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 58.5%[0m
+2025-03-11 21:44:47,332 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 59.4%[0m
+2025-03-11 21:44:47,347 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 58.3%[0m
+2025-03-11 21:44:47,349 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 53.7%[0m
+2025-03-11 21:44:47,743 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.6%[0m
+2025-03-11 21:44:47,751 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.6%[0m
+2025-03-11 21:44:47,752 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.6%[0m
+2025-03-11 21:44:47,754 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.6%[0m
+2025-03-11 21:44:47,762 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.6%[0m
+2025-03-11 21:44:47,780 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.7%[0m
+2025-03-11 21:44:47,781 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.7%[0m
+2025-03-11 21:44:47,782 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.8%[0m
+2025-03-11 21:44:47,794 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.1%[0m
+2025-03-11 21:44:47,810 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.5%[0m
+2025-03-11 21:44:47,830 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.8%[0m
+2025-03-11 21:44:47,832 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.9%[0m
+2025-03-11 21:44:48,262 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.6%[0m
+2025-03-11 21:44:48,265 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.6%[0m
+2025-03-11 21:44:48,266 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.6%[0m
+2025-03-11 21:44:48,268 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.7%[0m
+2025-03-11 21:44:48,270 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.7%[0m
+2025-03-11 21:44:48,271 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.7%[0m
+2025-03-11 21:44:48,273 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.7%[0m
+2025-03-11 21:44:48,275 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.9%[0m
+2025-03-11 21:44:48,286 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 64.1%[0m
+2025-03-11 21:44:48,310 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 64.5%[0m
+2025-03-11 21:44:48,358 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 65.1%[0m
+2025-03-11 21:44:48,361 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 60.7%[0m
+2025-03-11 21:44:48,758 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.7%[0m
+2025-03-11 21:44:48,770 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.7%[0m
+2025-03-11 21:44:48,772 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.7%[0m
+2025-03-11 21:44:48,774 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.7%[0m
+2025-03-11 21:44:48,776 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.7%[0m
+2025-03-11 21:44:48,778 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.7%[0m
+2025-03-11 21:44:48,779 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.8%[0m
+2025-03-11 21:44:48,780 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.9%[0m
+2025-03-11 21:44:48,791 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 67.1%[0m
+2025-03-11 21:44:48,812 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 67.6%[0m
+2025-03-11 21:44:48,862 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 68.4%[0m
+2025-03-11 21:44:48,898 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 68.1%[0m
+2025-03-11 21:44:48,901 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 62.3%[0m
+2025-03-11 21:44:49,380 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.7%[0m
+2025-03-11 21:44:49,391 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.7%[0m
+2025-03-11 21:44:49,393 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.7%[0m
+2025-03-11 21:44:49,394 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.7%[0m
+2025-03-11 21:44:49,396 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.7%[0m
+2025-03-11 21:44:49,398 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.8%[0m
+2025-03-11 21:44:49,411 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.8%[0m
+2025-03-11 21:44:49,416 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.9%[0m
+2025-03-11 21:44:49,427 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 70.1%[0m
+2025-03-11 21:44:49,462 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 70.6%[0m
+2025-03-11 21:44:49,516 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 71.4%[0m
+2025-03-11 21:44:49,518 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.7%[0m
+2025-03-11 21:44:49,520 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 66.5%[0m
+2025-03-11 21:44:49,908 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 72.7%[0m
+2025-03-11 21:44:49,930 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 72.7%[0m
+2025-03-11 21:44:49,932 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 72.7%[0m
+2025-03-11 21:44:49,933 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 72.7%[0m
+2025-03-11 21:44:49,934 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 72.8%[0m
+2025-03-11 21:44:49,941 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 72.8%[0m
+2025-03-11 21:44:49,942 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 72.8%[0m
+2025-03-11 21:44:49,958 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 72.9%[0m
+2025-03-11 21:44:49,977 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 73.2%[0m
+2025-03-11 21:44:50,022 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 73.6%[0m
+2025-03-11 21:44:50,030 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 73.2%[0m
+2025-03-11 21:44:50,033 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 70.7%[0m
+2025-03-11 21:44:50,444 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 75.8%[0m
+2025-03-11 21:44:50,454 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 75.8%[0m
+2025-03-11 21:44:50,455 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 75.8%[0m
+2025-03-11 21:44:50,456 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 75.8%[0m
+2025-03-11 21:44:50,457 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 75.8%[0m
+2025-03-11 21:44:50,461 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 75.8%[0m
+2025-03-11 21:44:50,473 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 75.9%[0m
+2025-03-11 21:44:50,592 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 76.0%[0m
+2025-03-11 21:44:50,611 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 76.2%[0m
+2025-03-11 21:44:50,629 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 76.6%[0m
+2025-03-11 21:44:50,661 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 77.5%[0m
+2025-03-11 21:44:50,686 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 77.1%[0m
+2025-03-11 21:44:50,688 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 71.4%[0m
+2025-03-11 21:44:51,156 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.8%[0m
+2025-03-11 21:44:51,170 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.8%[0m
+2025-03-11 21:44:51,172 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.8%[0m
+2025-03-11 21:44:51,174 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.8%[0m
+2025-03-11 21:44:51,175 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.8%[0m
+2025-03-11 21:44:51,214 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.8%[0m
+2025-03-11 21:44:51,226 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.9%[0m
+2025-03-11 21:44:51,243 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 79.0%[0m
+2025-03-11 21:44:51,261 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 79.2%[0m
+2025-03-11 21:44:51,293 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 79.6%[0m
+2025-03-11 21:44:51,347 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 80.5%[0m
+2025-03-11 21:44:51,385 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 80.0%[0m
+2025-03-11 21:44:51,388 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 74.6%[0m
+2025-03-11 21:44:51,808 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 81.8%[0m
+2025-03-11 21:44:51,859 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 81.8%[0m
+2025-03-11 21:44:51,861 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 81.8%[0m
+2025-03-11 21:44:51,863 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 81.8%[0m
+2025-03-11 21:44:51,865 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 81.8%[0m
+2025-03-11 21:44:51,866 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 81.9%[0m
+2025-03-11 21:44:51,868 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 81.9%[0m
+2025-03-11 21:44:51,869 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 82.0%[0m
+2025-03-11 21:44:51,878 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 82.2%[0m
+2025-03-11 21:44:51,892 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 82.7%[0m
+2025-03-11 21:44:51,941 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 83.5%[0m
+2025-03-11 21:44:51,946 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 82.1%[0m
+2025-03-11 21:44:51,948 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.4%[0m
+2025-03-11 21:44:52,340 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.9%[0m
+2025-03-11 21:44:52,359 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.9%[0m
+2025-03-11 21:44:52,361 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.9%[0m
+2025-03-11 21:44:52,362 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.9%[0m
+2025-03-11 21:44:52,364 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.9%[0m
+2025-03-11 21:44:52,365 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.9%[0m
+2025-03-11 21:44:52,372 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.0%[0m
+2025-03-11 21:44:52,377 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.1%[0m
+2025-03-11 21:44:52,391 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.3%[0m
+2025-03-11 21:44:52,409 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.7%[0m
+2025-03-11 21:44:52,446 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 86.5%[0m
+2025-03-11 21:44:52,463 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.7%[0m
+2025-03-11 21:44:52,465 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 81.0%[0m
+2025-03-11 21:44:52,874 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 87.9%[0m
+2025-03-11 21:44:52,893 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 87.9%[0m
+2025-03-11 21:44:52,894 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 87.9%[0m
+2025-03-11 21:44:52,895 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 87.9%[0m
+2025-03-11 21:44:52,896 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 87.9%[0m
+2025-03-11 21:44:52,896 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 87.9%[0m
+2025-03-11 21:44:52,900 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 88.0%[0m
+2025-03-11 21:44:52,908 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 88.1%[0m
+2025-03-11 21:44:52,916 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 88.3%[0m
+2025-03-11 21:44:52,938 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 88.7%[0m
+2025-03-11 21:44:52,958 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 88.8%[0m
+2025-03-11 21:44:52,960 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.5%[0m
+2025-03-11 21:44:53,314 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 90.9%[0m
+2025-03-11 21:44:53,335 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 90.9%[0m
+2025-03-11 21:44:53,335 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 90.9%[0m
+2025-03-11 21:44:53,336 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 90.9%[0m
+2025-03-11 21:44:53,337 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 90.9%[0m
+2025-03-11 21:44:53,345 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 91.0%[0m
+2025-03-11 21:44:53,352 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 91.0%[0m
+2025-03-11 21:44:53,359 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 91.1%[0m
+2025-03-11 21:44:53,369 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 91.3%[0m
+2025-03-11 21:44:53,389 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 91.7%[0m
+2025-03-11 21:44:53,499 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 91.3%[0m
+2025-03-11 21:44:53,501 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 88.9%[0m
+2025-03-11 21:44:53,926 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 93.9%[0m
+2025-03-11 21:44:53,927 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 93.9%[0m
+2025-03-11 21:44:53,928 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 93.9%[0m
+2025-03-11 21:44:53,929 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.0%[0m
+2025-03-11 21:44:53,930 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.0%[0m
+2025-03-11 21:44:53,931 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.0%[0m
+2025-03-11 21:44:53,946 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.0%[0m
+2025-03-11 21:44:53,953 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.1%[0m
+2025-03-11 21:44:53,964 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.4%[0m
+2025-03-11 21:44:53,979 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.8%[0m
+2025-03-11 21:44:54,016 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 95.6%[0m
+2025-03-11 21:44:54,017 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.1%[0m
+2025-03-11 21:44:54,019 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 90.7%[0m
+2025-03-11 21:44:54,460 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.0%[0m
+2025-03-11 21:44:54,468 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.0%[0m
+2025-03-11 21:44:54,469 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.0%[0m
+2025-03-11 21:44:54,469 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.0%[0m
+2025-03-11 21:44:54,470 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.0%[0m
+2025-03-11 21:44:54,474 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.0%[0m
+2025-03-11 21:44:54,479 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.1%[0m
+2025-03-11 21:44:54,489 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.2%[0m
+2025-03-11 21:44:54,497 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.4%[0m
+2025-03-11 21:44:54,510 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.8%[0m
+2025-03-11 21:44:54,538 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 98.2%[0m
+2025-03-11 21:44:54,540 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 94.2%[0m
+2025-03-11 21:44:54,874 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,879 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,880 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,881 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,890 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,891 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,896 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,901 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,917 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,940 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,954 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:54,956 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.4%[0m
+2025-03-11 21:44:55,363 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,373 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,374 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,375 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,386 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,387 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,393 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,399 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,446 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,458 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,462 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,463 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:55,673 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.0%[0m
+2025-03-11 21:44:55,674 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.1%[0m
+2025-03-11 21:44:55,675 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.3%[0m
+2025-03-11 21:44:55,676 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.6%[0m
+2025-03-11 21:44:55,693 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  1.1%[0m
+2025-03-11 21:44:55,724 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  2.3%[0m
+2025-03-11 21:44:55,768 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  4.7%[0m
+2025-03-11 21:44:55,803 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  9.5%[0m
+2025-03-11 21:44:55,865 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 19.0%[0m
+2025-03-11 21:44:55,940 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 37.9%[0m
+2025-03-11 21:44:56,103 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 75.9%[0m
+2025-03-11 21:44:56,137 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 21:44:56,364 - INFO - [youtube_manager.py:294] - Uploading to Google Drive...
+2025-03-11 21:44:56,364 - INFO - [youtube_manager.py:216] - Starting upload to Google Drive
+2025-03-11 21:51:23,843 - INFO - [youtube_manager.py:231] - Upload progress: 76%
+2025-03-11 21:52:27,984 - INFO - [youtube_manager.py:238] - Successfully uploaded to Google Drive! File ID: 1TLzPely4MXjdRwqSBtpS_CxqlSs_QYIQ
+2025-03-11 21:52:29,555 - INFO - [youtube_manager.py:262] - Video data added successfully to spreadsheet
+2025-03-11 21:52:29,557 - INFO - [youtube_manager.py:302] - Video processing completed successfully
+2025-03-11 21:52:29,565 - INFO - [youtube_manager.py:316] - Cleaned up downloaded file
+2025-03-11 22:29:59,015 - INFO - [youtube_manager.py:66] - Successfully authenticated with Google services
+2025-03-11 22:30:41,215 - INFO - [youtube_manager.py:103] - Spreadsheet found with ID: 1Zi0Pjsdnd6rOCRuFA-pwKrXlzuGKCaLFebD51fnKDqU
+2025-03-11 22:30:42,160 - INFO - [youtube_manager.py:280] - Fetching data for video: https://www.youtube.com/watch?v=YXNlxXMMF44
+2025-03-11 22:30:45,823 - INFO - [youtube_manager.py:170] - Successfully extracted data for video: Sam Smith - Unholy ft. Kim Petras Dance Cover | Juana Choreography
+2025-03-11 22:30:45,824 - INFO - [youtube_manager.py:287] - Downloading video...
+2025-03-11 22:30:50,617 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:50,620 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  3.8%[0m
+2025-03-11 22:30:50,824 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 37.5%[0m
+2025-03-11 22:30:50,836 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.5%[0m
+2025-03-11 22:30:50,838 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 32.0%[0m
+2025-03-11 22:30:50,839 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 31.4%[0m
+2025-03-11 22:30:50,871 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 31.1%[0m
+2025-03-11 22:30:50,924 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.9%[0m
+2025-03-11 22:30:50,965 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:51,012 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:51,069 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:51,155 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:51,288 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:51,354 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 19.5%[0m
+2025-03-11 22:30:51,357 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  7.7%[0m
+2025-03-11 22:30:51,672 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 23.1%[0m
+2025-03-11 22:30:51,676 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 23.1%[0m
+2025-03-11 22:30:51,679 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 23.1%[0m
+2025-03-11 22:30:51,682 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 23.1%[0m
+2025-03-11 22:30:51,684 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 23.2%[0m
+2025-03-11 22:30:51,686 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 23.4%[0m
+2025-03-11 22:30:51,697 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 23.6%[0m
+2025-03-11 22:30:51,703 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.2%[0m
+2025-03-11 22:30:51,720 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 25.2%[0m
+2025-03-11 22:30:51,757 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 26.9%[0m
+2025-03-11 22:30:51,845 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 29.6%[0m
+2025-03-11 22:30:51,954 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 29.1%[0m
+2025-03-11 22:30:51,957 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 14.8%[0m
+2025-03-11 22:30:52,246 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:52,252 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:52,254 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:52,257 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.8%[0m
+2025-03-11 22:30:52,260 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.9%[0m
+2025-03-11 22:30:52,262 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 30.9%[0m
+2025-03-11 22:30:52,276 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 31.1%[0m
+2025-03-11 22:30:52,283 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 31.4%[0m
+2025-03-11 22:30:52,320 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 32.1%[0m
+2025-03-11 22:30:52,355 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 33.2%[0m
+2025-03-11 22:30:52,401 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 34.7%[0m
+2025-03-11 22:30:52,407 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 24.7%[0m
+2025-03-11 22:30:52,810 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 38.5%[0m
+2025-03-11 22:30:52,818 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 38.5%[0m
+2025-03-11 22:30:52,820 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 38.5%[0m
+2025-03-11 22:30:52,822 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 38.5%[0m
+2025-03-11 22:30:52,825 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 38.5%[0m
+2025-03-11 22:30:52,827 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 38.6%[0m
+2025-03-11 22:30:52,831 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 38.8%[0m
+2025-03-11 22:30:52,842 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.1%[0m
+2025-03-11 22:30:52,855 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 39.7%[0m
+2025-03-11 22:30:52,883 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 40.8%[0m
+2025-03-11 22:30:52,955 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 43.0%[0m
+2025-03-11 22:30:53,032 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 43.2%[0m
+2025-03-11 22:30:53,035 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 29.7%[0m
+2025-03-11 22:30:53,341 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.2%[0m
+2025-03-11 22:30:53,344 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.2%[0m
+2025-03-11 22:30:53,345 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.2%[0m
+2025-03-11 22:30:53,347 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.2%[0m
+2025-03-11 22:30:53,351 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.2%[0m
+2025-03-11 22:30:53,352 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.3%[0m
+2025-03-11 22:30:53,364 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.4%[0m
+2025-03-11 22:30:53,374 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 46.7%[0m
+2025-03-11 22:30:53,399 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 47.2%[0m
+2025-03-11 22:30:53,423 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 48.2%[0m
+2025-03-11 22:30:53,473 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 49.6%[0m
+2025-03-11 22:30:53,474 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 40.2%[0m
+2025-03-11 22:30:53,709 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 53.9%[0m
+2025-03-11 22:30:53,712 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 53.9%[0m
+2025-03-11 22:30:53,714 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 53.9%[0m
+2025-03-11 22:30:53,717 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 53.9%[0m
+2025-03-11 22:30:53,720 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 53.9%[0m
+2025-03-11 22:30:53,722 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.0%[0m
+2025-03-11 22:30:53,725 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.1%[0m
+2025-03-11 22:30:53,736 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.4%[0m
+2025-03-11 22:30:53,751 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 54.9%[0m
+2025-03-11 22:30:53,786 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 55.9%[0m
+2025-03-11 22:30:53,866 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.8%[0m
+2025-03-11 22:30:53,972 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 58.0%[0m
+2025-03-11 22:30:53,976 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 44.9%[0m
+2025-03-11 22:30:54,252 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.5%[0m
+2025-03-11 22:30:54,257 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.5%[0m
+2025-03-11 22:30:54,259 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.6%[0m
+2025-03-11 22:30:54,261 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.6%[0m
+2025-03-11 22:30:54,262 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.6%[0m
+2025-03-11 22:30:54,263 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.7%[0m
+2025-03-11 22:30:54,271 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 61.8%[0m
+2025-03-11 22:30:54,283 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 62.0%[0m
+2025-03-11 22:30:54,303 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 62.5%[0m
+2025-03-11 22:30:54,342 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 63.4%[0m
+2025-03-11 22:30:54,423 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 64.7%[0m
+2025-03-11 22:30:54,427 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 55.6%[0m
+2025-03-11 22:30:54,754 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.2%[0m
+2025-03-11 22:30:54,759 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.2%[0m
+2025-03-11 22:30:54,759 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.2%[0m
+2025-03-11 22:30:54,761 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.3%[0m
+2025-03-11 22:30:54,765 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.3%[0m
+2025-03-11 22:30:54,771 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.4%[0m
+2025-03-11 22:30:54,778 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.5%[0m
+2025-03-11 22:30:54,785 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 69.7%[0m
+2025-03-11 22:30:54,803 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 70.2%[0m
+2025-03-11 22:30:54,833 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 71.1%[0m
+2025-03-11 22:30:54,891 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 73.0%[0m
+2025-03-11 22:30:55,075 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 76.3%[0m
+2025-03-11 22:30:55,095 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 70.5%[0m
+2025-03-11 22:30:55,097 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 57.7%[0m
+2025-03-11 22:30:55,470 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 76.9%[0m
+2025-03-11 22:30:55,473 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 76.9%[0m
+2025-03-11 22:30:55,473 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 76.9%[0m
+2025-03-11 22:30:55,475 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 77.0%[0m
+2025-03-11 22:30:55,480 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 77.0%[0m
+2025-03-11 22:30:55,481 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 77.0%[0m
+2025-03-11 22:30:55,485 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 77.1%[0m
+2025-03-11 22:30:55,490 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 77.4%[0m
+2025-03-11 22:30:55,512 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 77.8%[0m
+2025-03-11 22:30:55,540 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.6%[0m
+2025-03-11 22:30:55,601 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 80.3%[0m
+2025-03-11 22:30:55,741 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 83.3%[0m
+2025-03-11 22:30:55,767 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 78.1%[0m
+2025-03-11 22:30:55,769 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 65.9%[0m
+2025-03-11 22:30:56,141 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.6%[0m
+2025-03-11 22:30:56,150 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.6%[0m
+2025-03-11 22:30:56,151 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.6%[0m
+2025-03-11 22:30:56,152 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.6%[0m
+2025-03-11 22:30:56,155 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.7%[0m
+2025-03-11 22:30:56,168 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.7%[0m
+2025-03-11 22:30:56,171 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 84.8%[0m
+2025-03-11 22:30:56,184 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.0%[0m
+2025-03-11 22:30:56,205 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.4%[0m
+2025-03-11 22:30:56,227 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 86.2%[0m
+2025-03-11 22:30:56,284 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 87.7%[0m
+2025-03-11 22:30:56,395 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 90.6%[0m
+2025-03-11 22:30:56,415 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 85.7%[0m
+2025-03-11 22:30:56,417 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 74.0%[0m
+2025-03-11 22:30:56,825 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 92.3%[0m
+2025-03-11 22:30:56,826 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 92.3%[0m
+2025-03-11 22:30:56,826 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 92.3%[0m
+2025-03-11 22:30:56,828 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 92.3%[0m
+2025-03-11 22:30:56,829 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 92.4%[0m
+2025-03-11 22:30:56,835 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 92.4%[0m
+2025-03-11 22:30:56,842 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 92.5%[0m
+2025-03-11 22:30:56,857 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 92.7%[0m
+2025-03-11 22:30:56,877 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 93.1%[0m
+2025-03-11 22:30:56,899 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 93.8%[0m
+2025-03-11 22:30:56,968 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 95.2%[0m
+2025-03-11 22:30:57,254 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 97.9%[0m
+2025-03-11 22:30:57,267 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 93.4%[0m
+2025-03-11 22:30:57,268 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 82.0%[0m
+2025-03-11 22:30:57,757 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,778 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,780 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,782 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,784 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,790 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,802 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,815 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,832 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,860 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:57,925 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:58,053 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:58,066 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:30:58,068 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 90.2%[0m
+2025-03-11 22:31:02,000 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:02,017 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:02,019 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:02,021 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:02,023 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:02,033 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:02,038 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:02,048 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:02,049 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:06,946 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.1%[0m
+2025-03-11 22:31:06,948 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.3%[0m
+2025-03-11 22:31:06,949 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.6%[0m
+2025-03-11 22:31:06,950 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  1.3%[0m
+2025-03-11 22:31:07,018 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  2.8%[0m
+2025-03-11 22:31:07,065 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  5.7%[0m
+2025-03-11 22:31:07,111 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 11.4%[0m
+2025-03-11 22:31:07,168 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 22.9%[0m
+2025-03-11 22:31:07,277 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 45.8%[0m
+2025-03-11 22:31:07,381 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 91.7%[0m
+2025-03-11 22:31:07,398 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:31:07,585 - INFO - [youtube_manager.py:294] - Uploading to Google Drive...
+2025-03-11 22:31:07,586 - INFO - [youtube_manager.py:216] - Starting upload to Google Drive
+2025-03-11 22:34:27,470 - INFO - [youtube_manager.py:238] - Successfully uploaded to Google Drive! File ID: 1f7Mhqfi3aAUHT5-twrGgu7RhNK2xity4
+2025-03-11 22:34:28,508 - INFO - [youtube_manager.py:262] - Video data added successfully to spreadsheet
+2025-03-11 22:34:28,508 - INFO - [youtube_manager.py:302] - Video processing completed successfully
+2025-03-11 22:34:28,514 - INFO - [youtube_manager.py:316] - Cleaned up downloaded file
+2025-03-11 22:37:58,971 - INFO - [youtube_manager.py:103] - Spreadsheet found with ID: 1Zi0Pjsdnd6rOCRuFA-pwKrXlzuGKCaLFebD51fnKDqU
+2025-03-11 22:37:59,931 - INFO - [youtube_manager.py:280] - Fetching data for video: https://www.youtube.com/watch?v=Mk6gw8u-U18
+2025-03-11 22:38:03,935 - INFO - [youtube_manager.py:287] - Downloading video...
+2025-03-11 22:38:08,142 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.1%[0m
+2025-03-11 22:38:08,143 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.2%[0m
+2025-03-11 22:38:08,145 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.4%[0m
+2025-03-11 22:38:08,146 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.9%[0m
+2025-03-11 22:38:08,164 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  1.8%[0m
+2025-03-11 22:38:08,188 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  3.6%[0m
+2025-03-11 22:38:08,232 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  7.3%[0m
+2025-03-11 22:38:08,282 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 14.7%[0m
+2025-03-11 22:38:08,326 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 29.4%[0m
+2025-03-11 22:38:08,390 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 58.9%[0m
+2025-03-11 22:38:08,438 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:38:08,497 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  0.9%[0m
+2025-03-11 22:38:08,499 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  2.6%[0m
+2025-03-11 22:38:08,501 - INFO - [youtube_manager.py:96] - Download progress: [0;94m  6.2%[0m
+2025-03-11 22:38:08,502 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 13.2%[0m
+2025-03-11 22:38:08,504 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 27.3%[0m
+2025-03-11 22:38:08,506 - INFO - [youtube_manager.py:96] - Download progress: [0;94m 55.5%[0m
+2025-03-11 22:38:08,507 - INFO - [youtube_manager.py:96] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:38:08,628 - INFO - [youtube_manager.py:294] - Uploading to Google Drive...
+2025-03-11 22:38:08,638 - INFO - [youtube_manager.py:216] - Starting upload to Google Drive
+2025-03-11 22:38:23,210 - INFO - [youtube_manager.py:238] - Successfully uploaded to Google Drive! File ID: 1eZOYdmx6V7-IcUKWEcOKyhGRLWzdNX4P
+2025-03-11 22:38:24,209 - INFO - [youtube_manager.py:262] - Video data added successfully to spreadsheet
+2025-03-11 22:38:24,210 - INFO - [youtube_manager.py:302] - Video processing completed successfully
+2025-03-11 22:38:24,212 - INFO - [youtube_manager.py:316] - Cleaned up downloaded file
+2025-03-11 22:51:35,981 - INFO - [youtube_manager.py:97] - Successfully authenticated with Google services
+2025-03-11 22:51:53,336 - INFO - [youtube_manager.py:134] - Spreadsheet found with ID: 1Zi0Pjsdnd6rOCRuFA-pwKrXlzuGKCaLFebD51fnKDqU
+2025-03-11 22:51:54,399 - INFO - [youtube_manager.py:340] - Fetching data for video: https://www.youtube.com/watch?v=kiO9NmWvqWg
+2025-03-11 22:51:58,907 - INFO - [youtube_manager.py:347] - Downloading video...
+2025-03-11 22:52:03,536 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.0%[0m
+2025-03-11 22:52:03,538 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.0%[0m
+2025-03-11 22:52:03,540 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.0%[0m
+2025-03-11 22:52:03,541 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.0%[0m
+2025-03-11 22:52:03,559 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.1%[0m
+2025-03-11 22:52:03,582 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.1%[0m
+2025-03-11 22:52:03,624 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.3%[0m
+2025-03-11 22:52:03,678 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.6%[0m
+2025-03-11 22:52:03,744 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  1.2%[0m
+2025-03-11 22:52:03,807 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  2.3%[0m
+2025-03-11 22:52:03,882 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  4.7%[0m
+2025-03-11 22:52:03,994 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  9.3%[0m
+2025-03-11 22:52:04,298 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 18.6%[0m
+2025-03-11 22:52:04,433 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.3%[0m
+2025-03-11 22:52:04,470 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.3%[0m
+2025-03-11 22:52:04,472 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.3%[0m
+2025-03-11 22:52:04,473 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.3%[0m
+2025-03-11 22:52:04,475 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.3%[0m
+2025-03-11 22:52:04,476 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.3%[0m
+2025-03-11 22:52:04,481 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.4%[0m
+2025-03-11 22:52:04,485 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.6%[0m
+2025-03-11 22:52:04,495 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 22.9%[0m
+2025-03-11 22:52:04,512 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 23.4%[0m
+2025-03-11 22:52:04,550 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 24.6%[0m
+2025-03-11 22:52:04,762 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 26.9%[0m
+2025-03-11 22:52:04,979 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 31.6%[0m
+2025-03-11 22:52:05,358 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 40.9%[0m
+2025-03-11 22:52:05,501 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 44.7%[0m
+2025-03-11 22:52:05,579 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 44.7%[0m
+2025-03-11 22:52:05,580 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 44.7%[0m
+2025-03-11 22:52:05,582 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 44.8%[0m
+2025-03-11 22:52:05,583 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 44.8%[0m
+2025-03-11 22:52:05,585 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 44.8%[0m
+2025-03-11 22:52:05,587 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 44.9%[0m
+2025-03-11 22:52:05,588 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 45.0%[0m
+2025-03-11 22:52:05,599 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 45.3%[0m
+2025-03-11 22:52:05,618 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 45.9%[0m
+2025-03-11 22:52:05,655 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 47.1%[0m
+2025-03-11 22:52:05,731 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 49.4%[0m
+2025-03-11 22:52:05,894 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 54.0%[0m
+2025-03-11 22:52:06,295 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 63.4%[0m
+2025-03-11 22:52:06,473 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 67.9%[0m
+2025-03-11 22:52:06,547 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 67.9%[0m
+2025-03-11 22:52:06,549 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 67.9%[0m
+2025-03-11 22:52:06,550 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 67.9%[0m
+2025-03-11 22:52:06,552 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 68.0%[0m
+2025-03-11 22:52:06,554 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 68.0%[0m
+2025-03-11 22:52:06,555 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 68.1%[0m
+2025-03-11 22:52:06,559 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 68.2%[0m
+2025-03-11 22:52:06,571 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 68.5%[0m
+2025-03-11 22:52:06,590 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 69.1%[0m
+2025-03-11 22:52:06,620 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 70.3%[0m
+2025-03-11 22:52:06,666 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 72.6%[0m
+2025-03-11 22:52:06,793 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 77.2%[0m
+2025-03-11 22:52:07,117 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 86.5%[0m
+2025-03-11 22:52:07,210 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 90.5%[0m
+2025-03-11 22:52:07,335 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 90.5%[0m
+2025-03-11 22:52:07,337 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 90.6%[0m
+2025-03-11 22:52:07,339 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 90.6%[0m
+2025-03-11 22:52:07,340 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 90.6%[0m
+2025-03-11 22:52:07,342 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 90.6%[0m
+2025-03-11 22:52:07,343 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 90.7%[0m
+2025-03-11 22:52:07,348 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 90.8%[0m
+2025-03-11 22:52:07,354 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 91.1%[0m
+2025-03-11 22:52:07,377 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 91.7%[0m
+2025-03-11 22:52:07,404 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 92.9%[0m
+2025-03-11 22:52:07,451 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 95.2%[0m
+2025-03-11 22:52:07,514 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 99.9%[0m
+2025-03-11 22:52:07,516 - INFO - [youtube_manager.py:127] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:52:07,645 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.1%[0m
+2025-03-11 22:52:07,646 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.2%[0m
+2025-03-11 22:52:07,647 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.4%[0m
+2025-03-11 22:52:07,648 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  0.8%[0m
+2025-03-11 22:52:07,649 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  1.7%[0m
+2025-03-11 22:52:07,650 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  3.5%[0m
+2025-03-11 22:52:07,650 - INFO - [youtube_manager.py:127] - Download progress: [0;94m  7.1%[0m
+2025-03-11 22:52:07,662 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 14.2%[0m
+2025-03-11 22:52:07,679 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 28.5%[0m
+2025-03-11 22:52:07,705 - INFO - [youtube_manager.py:127] - Download progress: [0;94m 57.1%[0m
+2025-03-11 22:52:07,751 - INFO - [youtube_manager.py:127] - Download progress: [0;94m100.0%[0m
+2025-03-11 22:52:08,038 - INFO - [youtube_manager.py:249] - Created backup copy at: d:\Python Projects\YouTube01\Videos\backup_SLAVA FUNK _ USE HEADPHONES FOR BETTER EXPERIENCE _ _  @admusic_10 __kiO9NmWvqWg.mp4
+2025-03-11 22:52:08,039 - INFO - [youtube_manager.py:354] - Uploading to Google Drive...
+2025-03-11 22:52:08,040 - INFO - [youtube_manager.py:276] - Starting upload to Google Drive
+2025-03-11 22:53:37,364 - INFO - [youtube_manager.py:298] - Successfully uploaded to Google Drive! File ID: 15gWzjJaqDyZ209TzzIO_7yMDK10p70GR
+2025-03-11 22:53:38,571 - INFO - [youtube_manager.py:322] - Video data added successfully to spreadsheet
+2025-03-11 22:53:38,572 - INFO - [youtube_manager.py:362] - Video processing completed successfully
+2025-03-11 22:53:38,577 - INFO - [youtube_manager.py:376] - Cleaned up downloaded file
