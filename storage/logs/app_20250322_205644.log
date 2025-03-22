@@ -1,0 +1,13 @@
+2025-03-22 20:56:44 - INFO - [youtube_manager] - ==================================================
+2025-03-22 20:56:44 - INFO - [youtube_manager] - Application Started
+2025-03-22 20:56:44 - INFO - [youtube_manager] - Python Version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+2025-03-22 20:56:44 - INFO - [youtube_manager] - Operating System: win32
+2025-03-22 20:56:44 - INFO - [youtube_manager] - Working Directory: D:\Python Projects\YouTube
+2025-03-22 20:56:44 - INFO - [youtube_manager] - Log File: d:\Python Projects\YouTube\storage\logs\app_20250322_205644.log
+2025-03-22 20:56:44 - INFO - [youtube_manager] - ==================================================
+2025-03-22 20:56:44 - ERROR - [youtube_manager] - Fatal error: VideoProcessor.__init__() missing 1 required positional argument: 'settings'
+Traceback (most recent call last):
+  File "d:\Python Projects\YouTube\main.py", line 62, in main
+    processor = VideoProcessor()
+TypeError: VideoProcessor.__init__() missing 1 required positional argument: 'settings'
+2025-03-22 20:56:44 - INFO - [youtube_manager] - Application shutdown complete.

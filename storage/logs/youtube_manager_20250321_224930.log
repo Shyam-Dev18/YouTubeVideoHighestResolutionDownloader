@@ -1,0 +1,6 @@
+2025-03-21 22:49:30,578 - INFO - [youtube_manager] - Starting YouTube Video Manager...
+2025-03-21 22:49:30,636 - INFO - [app.services.google_drive] - Google Drive service initialized successfully
+2025-03-21 22:49:33,385 - INFO - [app.services.google_sheets] - Google Sheets service initialized successfully
+2025-03-21 22:50:35,682 - INFO - [app.services.google_sheets] - Added video How Hypersonic Missile Works? to spreadsheet
+2025-03-21 22:50:35,730 - INFO - [app.core.downloader] - Downloading video: How Hypersonic Missile Works?
+2025-03-21 22:51:08,157 - INFO - [youtube_manager] - Application shutdown complete.

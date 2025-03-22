@@ -1,0 +1,15 @@
+2025-03-22 22:08:23,966 - INFO - [youtube_manager] - Starting YouTube Video Manager...
+2025-03-22 22:08:24,006 - INFO - [app.services.google_drive] - Google Drive service initialized successfully
+2025-03-22 22:08:26,253 - INFO - [app.services.google_sheets] - Google Sheets service initialized successfully
+2025-03-22 22:08:45,212 - INFO - [app.services.google_sheets] - Added video See the power of SU-57 #eurofighter #typhoon #rap #british #viralvideo #airplane #aivideo to spreadsheet
+2025-03-22 22:08:45,259 - INFO - [app.core.downloader] - Downloading video: See the power of SU-57 #eurofighter #typhoon #rap #british #viralvideo #airplane #aivideo
+2025-03-22 22:08:51,552 - INFO - [app.core.downloader] - Download completed, now processing...
+2025-03-22 22:08:52,674 - INFO - [app.core.downloader] - Download completed, now processing...
+2025-03-22 22:08:52,837 - INFO - [app.core.downloader] - Video saved to: d:\Python Projects\YouTubeNEW\storage\videos\processed\See the power of SU-57 #eurofighter #typhoon #rap #british #viralvideo #airplane #aivideo_1VDQAwDGoFw.mp4
+2025-03-22 22:08:52,842 - INFO - [app.services.google_drive] - Starting file upload to Google Drive
+2025-03-22 22:09:02,222 - INFO - [app.services.google_drive] - Upload progress: 100%
+2025-03-22 22:09:02,223 - INFO - [app.services.google_drive] - File upload completed successfully
+2025-03-22 22:09:02,224 - INFO - [app.services.google_drive] - File uploaded successfully. ID: 12Ni15CvBvOOYgKz66ycoMaQgsvMhspTb
+2025-03-22 22:09:03,573 - INFO - [app.services.google_sheets] - Updated status for video 'See the power of SU-57 #eurofighter #typhoon #rap #british #viralvideo #airplane #aivideo'
+2025-03-22 22:09:03,573 - INFO - [app.core.processor] - Successfully processed video: See the power of SU-57 #eurofighter #typhoon #rap #british #viralvideo #airplane #aivideo
+2025-03-22 22:09:06,539 - INFO - [youtube_manager] - Application shutdown complete.

@@ -1,0 +1,6 @@
+2025-03-22 20:57:25,444 - INFO - [youtube_manager] - Starting YouTube Video Manager...
+2025-03-22 20:57:25,531 - INFO - [app.services.google_drive] - Google Drive service initialized successfully
+2025-03-22 20:57:28,554 - INFO - [app.services.google_sheets] - Google Sheets service initialized successfully
+2025-03-22 20:58:08,697 - INFO - [app.services.google_sheets] - Added video I Asked Googlers How To Get Hired to spreadsheet
+2025-03-22 20:58:08,748 - INFO - [app.core.downloader] - Downloading video: I Asked Googlers How To Get Hired
+2025-03-22 20:58:29,459 - INFO - [youtube_manager] - Application shutdown complete.
