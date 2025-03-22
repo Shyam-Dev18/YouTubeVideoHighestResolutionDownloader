@@ -1,4 +1,0 @@
-2025-03-22 22:04:07,453 - INFO - [youtube_manager] - Starting YouTube Video Manager...
-2025-03-22 22:04:07,509 - INFO - [app.services.google_drive] - Google Drive service initialized successfully
-2025-03-22 22:04:09,607 - INFO - [app.services.google_sheets] - Google Sheets service initialized successfully
-2025-03-22 22:04:21,682 - INFO - [youtube_manager] - Application shutdown complete.
